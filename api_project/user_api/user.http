@@ -1,0 +1,32 @@
+GET http://localhost:3000/user
+
+###
+POST http://localhost:3000/user/addUser
+Content-Type: application/json
+
+{ 
+  "id": 6,
+  "firstname": "Emy",
+  "lastname": "John",
+  "email": "emy@gmail.com",
+  "phone": "7656349089",
+  "employeeId": "I35",
+  "designation": "Full stack developer",
+  "teamId": "T01"
+}
+
+###
+GET http://localhost:3000/user/2
+
+###
+PUT http://localhost:3000/user/3
+Content-Type: application/json
+
+{ 
+  "firstname" :"Santhiya",
+  "lastname": "Naveen",
+  "email": "santhiya@gmail.com"
+}
+
+###
+DELETE http://localhost:3000/user/5

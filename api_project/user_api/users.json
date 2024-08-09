@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "firstname": "Aarthi",
+    "lastname": "M",
+    "email": "aarthi@gmail.com",
+    "phone": "9875432100",
+    "employeeId": "I30",
+    "designation": "Full stack developer",
+    "teamId": "T01"
+  },
+  {
+    "id": 2,
+    "firstname": "Albert",
+    "lastname": "Raja",
+    "email": "albert@gmail.com",
+    "phone": "9056432866",
+    "employeeId": "I31",
+    "designation": "Python Developer",
+    "teamId": "T02"
+  },
+  {
+    "id": 3,
+    "firstname": "Santhiya",
+    "lastname": "Naveen",
+    "email": "santhiya@gmail.com",
+    "phone": "8080542138",
+    "employeeId": "I32",
+    "designation": "Salesforce Developer",
+    "teamId": "T03"
+  },
+  {
+    "id": 4,
+    "firstname": "Manju",
+    "lastname": "Murugesan",
+    "email": "manju@gmail.com",
+    "phone": "7656349082",
+    "employeeId": "I33",
+    "designation": "Full stack developer",
+    "teamId": "T01"
+  },
+  {
+    "id": 6,
+    "firstname": "Emy",
+    "lastname": "John",
+    "email": "emy@gmail.com",
+    "phone": "7656349089",
+    "employeeId": "I35",
+    "designation": "Full stack developer",
+    "teamId": "T01"
+  }
+]

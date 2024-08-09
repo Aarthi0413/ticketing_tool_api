@@ -1,0 +1,30 @@
+###
+GET http://localhost:3000/team
+
+###
+POST http://localhost:3000/team/addTeam
+Content-Type: application/json
+
+{   
+    "id":2,
+    "name": "Domo",
+    "members": ["Marry", "Joseph"]
+}
+
+
+###
+GET http://localhost:3000/team/2
+
+###
+PUT http://localhost:3000/team/1
+Content-Type: application/json
+
+{   
+    "name": "GWC",
+    "members":["Marry", "Appu"]
+}
+
+
+###
+DELETE http://localhost:3000/team/2
+

@@ -1,0 +1,31 @@
+###
+GET http://localhost:3000/ticket
+
+###
+POST http://localhost:3000/ticket/addTicket
+Content-Type: application/json
+
+{   
+    "id":7,
+    "title": "Figma Design",
+    "description": "Bekfn",
+    "team": "nkvx",
+    "status": "Completed",
+    "assignee": "Aarthi",
+    "reporter": "Nandhini"
+}
+
+###
+GET http://localhost:3000/ticket/1
+
+###
+PUT http://localhost:3000/ticket/4
+Content-Type: application/json
+
+{
+    "title":"Figma Design",
+    "status":"Completed"
+}
+
+###
+DELETE http://localhost:3000/ticket/6

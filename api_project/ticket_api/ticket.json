@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Fix login issue",
+    "description": "Users are unable to log in",
+    "team": "Backend",
+    "status": "In Progress",
+    "assignee": "Albert",
+    "reporter": "Vicky"
+  },
+  {
+    "id": 2,
+    "title": "Domo visualization",
+    "description": "Revamp the homepage with the new design",
+    "team": "Frontend",
+    "status": "Completed",
+    "assignee": "Aarthi",
+    "reporter": "Murugesan"
+  },
+  {
+    "id": 3,
+    "title": "Database performance optimization",
+    "description": "Optimize the database queries",
+    "team": "Database",
+    "status": "Completed",
+    "assignee": "Manju",
+    "reporter": "Murugesan"
+  },
+  {
+    "id": 4,
+    "title": "Figma design",
+    "description": "This is a test ticket.",
+    "team": "Frontend",
+    "status": "Completed",
+    "assignee": "Aarthi",
+    "reporter": "Nandhini"
+  },
+  {
+    "id": 5,
+    "title": " ",
+    "description": "This is a test ticket.",
+    "team": "Frontend",
+    "status": "Doing",
+    "assignee": "Aarthi",
+    "reporter": "Nandhini"
+  }
+]
